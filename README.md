@@ -1,2 +1,2 @@
-# C_chat
-Chat application for embedded devices. 
+# C_fir
+fir FILTER application for embedded devices. 

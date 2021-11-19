@@ -3,7 +3,9 @@ Fir filter application. Based on the code of Shawn Says.
 ---------------------------------------------------------------------------
 
 ## Compile Example
-- Compile the soruces on ``` /src ``` 
+- First clone the repo ```git clone https://github.com/HALxmont/C-FIR-FILTER.git```
+- Go to``` cd C-FIR-FILTER ```
+- Now compile the soruces on ``` /src ``` 
 - ``` gcc flt.c filter_functions.c ```
 # Run example
 - In ``` /src ``` run ``` ./a.out <Input .pcm file dir> <OUT .pcm file dir> ``` 

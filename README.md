@@ -1,5 +1,5 @@
 # C_fir
-fir FILTER application for embedded devices. 
+Fir FILTER application. Based on the code of Shawn Says.
 
 
 ## Compile Example

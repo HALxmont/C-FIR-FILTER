@@ -1,6 +1,6 @@
-# C_fir
-Fir FILTER application. Based on the code of Shawn Says.
-
+# C FIR filter 
+Fir filter application. Based on the code of Shawn Says.
+---------------------------------------------------------------------------
 
 ## Compile Example
 - Compile the soruces on ``` /src ``` 

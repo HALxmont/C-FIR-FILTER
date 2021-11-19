@@ -2,7 +2,7 @@
 Fir filter application. Based on the code of Shawn Says.
 ---------------------------------------------------------------------------
 
-## Compile Example
+## Compile the example
 - First clone the repo ```git clone https://github.com/HALxmont/C-FIR-FILTER.git```
 - Go to``` cd C-FIR-FILTER ```
 - Now compile the soruces on ``` /src ``` 
